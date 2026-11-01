@@ -4,6 +4,7 @@
 Python package related to scaling image transformations
 
 ```python
+import albumentations as A
 import scalableImageTransformations 
 from scalableImageTransformations import imageTransformation
 from pprint import pprint
